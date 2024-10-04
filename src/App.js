@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          The app development is in progress...
-        </p>
+        <h1>
+          This REACTS JS app development is in progress...
+        </h1>
       </header>
     </div>
   );
