@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          This REACTS JS app development is in progress...
+          This REACT JS app development is in progress...
         </h1>
       </header>
     </div>
